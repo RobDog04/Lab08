@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <blockquote class="imgur-embed-pub" lang="en" data-id="a/ZlHbfI1"  ><a href="//imgur.com/a/ZlHbfI1">.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+    <div class="slideshow-container">
+   <blockquote class="imgur-embed-pub" lang="en" data-id="a/zseBGrS"  ><a href="//imgur.com/a/zseBGrS">.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>   
+   <blockquote class="imgur-embed-pub" lang="en" data-id="a/tik4YPH"  ><a href="//imgur.com/a/tik4YPH">The angriest squeak.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+   <blockquote class="imgur-embed-pub" lang="en" data-id="a/O7FBQxk"  ><a href="//imgur.com/a/O7FBQxk">Ellis enjoying one the first proper springdays in Norway</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+   <blockquote class="imgur-embed-pub" lang="en" data-id="a/AaIiqE7"  ><a href="//imgur.com/a/AaIiqE7">After using fancy conditioner on my hair and beard.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  
+
+
+  <button onclick="incSlides(-1)">Prev</button>
+  <button onclick="incSlides(1)">Next</button>
+</div>
+<br>
+    <script src="script.js"></script>
+  </body>
+</html>
